@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nubot-simulator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/nubot_simulator_jar</output-path>
+    <root id="archive" name="nubot-simulator.jar">
+      <element id="module-output" name="nubot-simulator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/javatuples-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/monte-cc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
