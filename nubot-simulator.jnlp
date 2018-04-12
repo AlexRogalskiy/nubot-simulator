@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="chigozienri.github.io/nubot-simulator/" href="nubot-simulator.jnlp">
+
+     <information>
+          <title>Nubot Simulator</title>
+          <vendor>Chigozie Nri</vendor>
+          <homepage href="https://chigozienri.github.io/nubot-simulator/" />
+          <description>Nubot Simulator</description>
+     </information>
+
+     <security>
+          <all-permissions/>
+     </security>
+
+     <resources>
+          <j2se version="1.8+" />
+          <jar href="nubot-simulator.jar" />
+     </resources>
+
+     <application-desc main-class="Gui" />
+</jnlp>
